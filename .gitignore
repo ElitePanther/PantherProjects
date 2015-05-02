@@ -1,3 +1,12 @@
 .git
 *.ncb
 *.suo
+BuildLog.htm
+*.exe
+*.manifest
+*.res
+*.ilk
+*.obj
+*.pdb
+*.dep
+*.idb
